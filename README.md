@@ -1,16 +1,12 @@
 # e_commerce_shopee
 
-A new Flutter project.
+Ứng dụng thương mại điện tử về máy tính 
 
-## Getting Started
+# Giao diện trang chủ
+![image](https://user-images.githubusercontent.com/104492264/165477046-f595c75c-8a19-402b-8117-8e8570b51cb5.png)
+# Trang chi tiết phẩmphẩm
+![image](https://user-images.githubusercontent.com/104492264/165477269-635b1c84-fe58-4048-8070-8824471216fd.png)
+# Trang giỏ hàng
+![image](https://user-images.githubusercontent.com/104492264/165477359-e6b47d05-a79f-418d-a549-5882f0afd74b.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
